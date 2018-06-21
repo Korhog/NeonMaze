@@ -6,8 +6,8 @@ Material:
   m_ObjectHideFlags: 0
   m_PrefabParentObject: {fileID: 0}
   m_PrefabInternal: {fileID: 0}
-  m_Name: Flor
-  m_Shader: {fileID: 4800000, guid: d9a19bca9e8ec744f800dc4c6815b2fc, type: 3}
+  m_Name: Glow
+  m_Shader: {fileID: 4800000, guid: 0fcc3180a76bd95409def36f9edca4ae, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
@@ -18,10 +18,6 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
-    - Texture_1D1FA231:
-        m_Texture: {fileID: 2800000, guid: 7724618817c443c42a8f78f71e2ccd18, type: 3}
-        m_Scale: {x: 1, y: 1}
-        m_Offset: {x: 0, y: 0}
     - _BumpMap:
         m_Texture: {fileID: 0}
         m_Scale: {x: 1, y: 1}
